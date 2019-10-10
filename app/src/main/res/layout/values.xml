@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+        <string-array name="spinner1">
+            <item>Operators</item>
+            <item>Streets</item>
+            <item>Areas</item>
+
+        </string-array>
+
+
+    </resources>
